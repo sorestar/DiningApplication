@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+   >
+
+    <ImageView
+        android:id="@+id/gif_initial"
+        android:layout_width="166dp"
+        android:layout_height="146dp"
+        android:contentDescription="@string/gif_image"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.441" />
+
+
+    <ImageView
+        android:id="@+id/bubble"
+        android:layout_width="359dp"
+        android:layout_height="89dp"
+        android:contentDescription="@string/speech_bubble"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gif_initial"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/speechbubble_diff" />
+
+    <ImageButton
+        android:id="@+id/next_button"
+        android:layout_width="54dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="324dp"
+        android:layout_marginEnd="6dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/next_button"
+        android:fontFamily="@font/bdh"
+        android:scaleType="fitCenter"
+        android:clickable = "true"
+        android:focusable = "true"
+        android:text="@string/next_text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.629"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bubble"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/rightarrow" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="347dp"
+        android:layout_height="36dp"
+        android:background="#F6F6ED"
+        android:fontFamily="@font/bdh"
+        android:gravity="center"
+        android:text="@string/thanks_message"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="@+id/bubble"
+        app:layout_constraintEnd_toEndOf="@+id/bubble"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="@+id/bubble"
+        app:layout_constraintTop_toTopOf="@+id/bubble"
+        app:layout_constraintVertical_bias="0.592" />
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="266dp"
+        android:layout_height="42dp"
+        android:fontFamily="@font/bdh"
+        android:gravity="center"
+        android:hint="@string/writedown_name"
+        android:inputType="text"
+        android:privateImeOptions="defaultInputmode=korean"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/next_button"
+        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text"
+        app:layout_constraintVertical_bias="0.092" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

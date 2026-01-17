@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cafeteria Application</string>
+    <string name="gif_image" />
+    <string name="red_plate_image" />
+    <string name="speech_bubble" />
+    <string name="cat_grinning">😺</string>
+    <string name="paintbrush" />
+    <string name="next_text">다음</string>
+    <string name="thanks_message">안녕! 안여 급식앱을 설치해줘서 고마워!</string>
+    <string name="next_button">next_button</string>
+    <string name="writedown_name">이쁜 닉네임을 입력해줘!</string>
+    <string name="date_here">date_here</string>
+    <string name="evaluate_lunch">오늘 급식을 평가해줘!</string>
+    <string name="rating_bar_submit_button">rating bar submit button</string>
+    <string name="name_here">name_here</string>
+    <string name="color_changing_button">color changing button</string>
+    <string name="display_screen">display screen</string>
+    <string name="exit_button">exit button</string>
+    <string name="write_opinions">나를 눌러 하고싶은 말을 적어줘!</string>
+    <string name="submit_opinion">밑에 하고싶은 말을 적어주면 개발자에게 전달돼!</string>
+    <string name="submitt">제 출</string>
+    <string name="gif">gif_image</string>
+</resources>

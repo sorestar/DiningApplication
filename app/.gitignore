@@ -1,0 +1,18 @@
+/build
+.gradle/
+build/
+
+local.properties
+
+.idea/
+*.iml
+
+*.jks
+*.keystore
+
+google-services.json
+
+# logs
+*.log
+
+.DS_Store
