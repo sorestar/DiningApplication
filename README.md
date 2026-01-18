@@ -1,30 +1,33 @@
 # 𝐃𝐢𝐧𝐢𝐧𝐠 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 
 
 ## Technologies Used 📌
-<ul>
-  ### <li>
+  ###<ul>
+ <li>
 Core Programming Language and Platform
 </li>
+
+
 - JAVA
   
 - Android SDK
 
 - Android Studio
 
-### 
 <li>
 Firebase Realtime Database
 </li>
-### <li>
+<li>
 Open API
 </li>
+
+
 - Open API integration
 
 - JSON data handling
-### <li>
+<li>
 Gradle
 </li>
-### <li>
+<li>
 Git, Github
 </li>
 <br />
