@@ -2,20 +2,20 @@
 
 ## Technologies Used 📌
 
-### Core Programming Language and Platform
+### - Core Programming Language and Platform
 
 <ul><li>JAVA</li><li>Android SDK</li><li>Android Studio</li></ul>
 
 
-### Firebase Realtime Database
+### - Firebase Realtime Database
 
-### Open API
+### - Open API
 
 <ul><li>Open API integration</li><li>JSON data handling</li></ul>
 
-### Gradle
+### - Gradle
 
-### Git, Github
+### - Git, Github
 
 <br />
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆　
