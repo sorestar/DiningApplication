@@ -3,7 +3,7 @@
 ## Technologies Used 📌
  <ul>
  <li>
-### Core Programming Language and Platform
+<details> ### Core Programming Language and Platform</details>
 </li>
 
 
