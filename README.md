@@ -1,5 +1,10 @@
 # 𝐃𝐢𝐧𝐢𝐧𝐠 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 
 
+
+<img width="639" height="986" alt="Screenshot 2025-12-27 205039" src="https://github.com/user-attachments/assets/47849ba9-9e1e-4340-8744-24af6fe57969" />
+
+<img width="584" height="924" alt="Screenshot 2025-12-27 175344" src="https://github.com/user-attachments/assets/e4f5f99c-08c4-4206-a5bd-91b948daab78" />
+
 ## Technologies Used 📌
  <ul>
  <li>
