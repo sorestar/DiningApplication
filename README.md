@@ -1,34 +1,32 @@
 #### DINING APPLICATION
 
-### Current Stage of Development - 🥶 Closed Testing (Expected Release Date : 1 week of Feburary)
+### Technologies Used 📌
 
-#### Technologies Used 📌
-
-### Core Programming Language and Platform
+## Core Programming Language and Platform
 
 <ul><li>JAVA</li><li>Android SDK</li><li>Android Studio</li></ul>
 <br />
-### Firebase Realtime Database
+## Firebase Realtime Database
 
-### Open API
+## Open API
 
 <ul><li>Open API integration</li><li>JSON data handling</li></ul>
 
+## Gradle
 
-### Gradle
-
-### Git, Github
+## Git, Github
 
 <br />
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆　
 
-### Description
+## Description
+## Current Stage of Development - 🥶 Closed Testing (Expected Release Date : 1 week of Feburary)
 
 This is a dining application for students of Anyang Girls' High School / Anyang Girls' Middle School. I selected the app to target this school only, instead of making users choose their school. This was because Anyang Girls' High School is where I have learned the most, and had many memories. 
 
 I wanted the app to feel adjusted to school-specific events, such as displaying a "Enjoy your summer break, and I'll see you all soon😺" message. 
 
-### How I made this Application and Why
+## How I made this Application and Why
 
 This app is a solo-developed application, with all of the elements such as the logo, UI/UX, overall app design, and programming done by myself. 
 
