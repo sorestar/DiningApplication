@@ -33,14 +33,14 @@
 <br />
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆　
 
-## Description
-### Current Stage of Development - 🥶 Closed Testing (Expected Release Date : 1 week of Feburary)
+
+### 🇨​🇺​🇷​🇷​🇪​🇳​🇹​ 🇸​🇹​🇦​🇬​🇪​ 🇴​🇫​ 🇩​🇪​🇻​🇪​🇱​🇴​🇵​🇲​🇪​🇳​🇹​ - 🥶 🇨​🇱​🇴​🇸​🇪​🇩​ 🇹​🇪​🇸​🇹​🇮​🇳​🇬​ (🇪​🇽​🇵​🇪​🇨​🇹​🇪​🇩​ 🇷​🇪​🇱​🇪​🇦​🇸​🇪​ 🇩​🇦​🇹​🇪​ : 1 🇼​🇪​🇪​🇰​ 🇴​🇫​ 🇫​🇪​🇧​🇺​🇷​🇦​🇷​🇾​)
 
 This is a dining application for students of Anyang Girls' High School / Anyang Girls' Middle School. I selected the app to target this school only, instead of making users choose their school. This was because Anyang Girls' High School is where I have learned the most, and had many memories. 
 
 I wanted the app to feel adjusted to school-specific events, such as displaying a "Enjoy your summer break, and I'll see you all soon😺" message. 
 
-### How I made this Application and Why
+### How I made this Application and Why 🌟
 
 This app is a solo-developed application, with all of the elements such as the logo, UI/UX, overall app design, and programming done by myself. 
 
