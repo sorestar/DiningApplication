@@ -3,7 +3,7 @@
 ## Technologies Used 📌
  <ul>
  <li>
-<details> ### Core Programming Language and Platform</details>
+<h3>Core Programming Language and Platform</h3>
 </li>
 
 
@@ -14,10 +14,10 @@
 - Android Studio
 
 <li>
-*** Firebase Realtime Database ***
+<h3> Firebase Realtime Database </h3>
 </li>
 <li>
-*** Open API ***
+<h3> Open API </h3>
 </li>
 
 
@@ -25,10 +25,10 @@
 
 - JSON data handling
 <li>
-*** Gradle ***
+<h3> Gradle </h3>
 </li>
 <li>
-*** Git, Github ***
+<h3> Git, Github </h3>
 </li>
 <br />
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆　
